@@ -1,6 +1,11 @@
-- date: 1 January, 1941
-  headline: "Example news here"
+- date: July, 2023
+  headline: "Graduated from IIITH with a dual degree in CSE (with a specialization in Theory and Algorithm)."
 
-- date: 1 January, 1940
-  headline: "Example news here"
+- date: December, 2022
+  headline: "I joined ML Research Lab at IITH as a Project Associate."
 
+- date: August, 2022
+  headline: "Attended UAI 2022 for a spotlight presentation of our paper in [Individual Fairness in Feature-Based Pricing in Monopoly Markets.](https://proceedings.mlr.press/v180/das22a/das22a.pdf)"
+
+- date: March, 2022
+  headline: "Our paper on [Individual Fairness in Feature-Based Pricing in Monopoly Markets](https://proceedings.mlr.press/v180/das22a/das22a.pdf) is accepted at UAI 2022."

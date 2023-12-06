@@ -1,21 +1,22 @@
-- name: Dr. Richard Feynman
-  photo: headshot.jpg
-  info: Richard C. Tolman Professor, California Institute of Technology
-  email: richard@university.edu
-  github: https://github.com/
-  researchgate: https://www.researchgate.net/
-  scholar: https://scholar.google.com/citations?user=B7vSqZsAAAAJ
-  cv: cv/cv.pdf
+- name: Shantanu Das
+  photo: website_img.jpeg
+  info: Project Associate, Indian Institute of Technology Hyderabad
+  email: shantanu.das1931@gmail.com
+  github: https://github.com/shantnuu
+  researchgate: https://www.researchgate.net/profile/Shantanu-Das-3
+  scholar: https://scholar.google.com/citations?user=STl0vuUAAAAJ&hl=en
+  twitter: https://twitter.com/shantnu_d
+  cv: cv.pdf
   # Change the number below to the number of "educations" you have (up to 6)
-  number_educ: 2
-  education1: "(1942) Ph.D. Physics, Princeton University"
-  education2: "(1939) B.S. Physics, Massachusetts Institute of Technology"
+  number_educ: 1
+  education1: "(2023) B.Tech. and M.S. by Research in Computer Science and Engineering, International Institute of Information Technology, Hyderabad"
+  # education2: "(1939) B.S. Physics, Massachusetts Institute of Technology"
   # education3: 
   # education4: 
   # education5: 
   # education6: 
-  education1short: (1942) Ph.D. Physics, Princeton
-  education2short: (1939) B.S. Physics, MIT
+  education1short: (2023) BTech + MS by Research, IIIT-Hyderabad
+  # education2short: (1939) B.S. Physics, MIT
   # education3short: 
   # education4short: 
   # education5short: 
