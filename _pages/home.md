@@ -31,7 +31,6 @@ I was a part of the [Machine Learning Lab](https://mll.iiit.ac.in/) under the pr
 I also studied probabilistic graphical models (PGMs) and Markov Chain Monte Carlo (MCMC) sampling for complex structures such as graph colorings and path sampling on planar graphs.  -->
 
 I am looking for Research Associate/Pre-Doctoral roles in Machine Learning. Link to my [CV]({{ site.url }}{{ site.baseurl }}/assets/cv/cv.pdf).
-I plan to apply for PhD in Fall 2025 cycle.
 
 <h3 class="heading"> Interests </h3>
 My interests broadly lie at the intersection of Machine Learning, Applied Probability and Causal Inference. 
